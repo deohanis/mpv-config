@@ -1,6 +1,6 @@
 # mpv-config
 
-<p align="center"><img width=100% src="https://raw.githubusercontent.com/lucawolfee/mpv-config/master/images/preview.jpg" alt="mpv screenshot"></p>
+<p align="center"><img width=100% src="https://raw.githubusercontent.com/deohanis/mpv-config/master/images/preview.jpg" alt="mpv screenshot"></p>
 
 ## Overview
 Personal config files for mpv media player. This repo contains custom keybindings, pseudo GUI menu and various userscripts and shaders optimized for animated media as well as movies.
